@@ -22,6 +22,9 @@
     <div>
         {{#each posts as |posts|}}
             {{>post-info posts}}
+            <div class="edit-post-container">
+                <a href="/dashboard/edit/{{posts.id}}" class="edit-post">Edit Post</a>                
+            </div>
         {{/each}}
     </div>
 </section>
