@@ -10,6 +10,12 @@
 
 This is a site is for other tech bloggers to post, comment and share information to each other.
 
+![Homepage](https://raw.githubusercontent.com/nchow18/tech-blog/develop/media/hompage.png)
+![dashboard](https://raw.githubusercontent.com/nchow18/tech-blog/develop/media/dashboard.png)
+![edit-post](https://raw.githubusercontent.com/nchow18/tech-blog/develop/media/edit-post.png)
+![single-post](https://raw.githubusercontent.com/nchow18/tech-blog/develop/media/single-post.png)
+![login](https://raw.githubusercontent.com/nchow18/tech-blog/develop/media/login.png)
+
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
@@ -20,7 +26,7 @@ This is a site is for other tech bloggers to post, comment and share information
 
 ## Installation
 
-To install locally: add node.js to start the server for server.js.  After it has been installed, go to the website http://localhost:3001 and begin the note taking!
+To install locally: add node.js to start the server for server.js.  After it has been installed, go to the website http://localhost:3001 and begin making posts, comments and signup!
 
 ## Usage
 
