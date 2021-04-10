@@ -10,10 +10,15 @@
 
 This is a site is for other tech bloggers to post, comment and share information to each other.
 
+### HOMEPAGE:
 ![Homepage](https://raw.githubusercontent.com/nchow18/tech-blog/develop/media/hompage.png)
+### DASHBOARD:
 ![dashboard](https://raw.githubusercontent.com/nchow18/tech-blog/develop/media/dashboard.png)
+### EDIT POST:
 ![edit-post](https://raw.githubusercontent.com/nchow18/tech-blog/develop/media/edit-post.png)
+### SINGLE POST:
 ![single-post](https://raw.githubusercontent.com/nchow18/tech-blog/develop/media/single-post.png)
+### LOGIN:
 ![login](https://raw.githubusercontent.com/nchow18/tech-blog/develop/media/login.png)
 
 * [Installation](#installation)
