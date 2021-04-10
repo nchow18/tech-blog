@@ -5,6 +5,7 @@
 
 * [Link to GitHub](https://github.com/nchow18)
 * [Email]:(mailto:emailme@nathanchow.ca)
+* [Link to HEROKU](https://tech-blog-2021.herokuapp.com/)
 
 ## DESCRIPTION:
 
