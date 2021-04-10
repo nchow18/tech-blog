@@ -25,7 +25,7 @@
   "scripts": {
     "start": "node server.js",
     "test": "jest",
-    "seeds":"node seeds/index.js"
+    "seeds": "node seeds/index.js"
   },
   "author": "",
   "license": "ISC"
