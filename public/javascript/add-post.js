@@ -1,7 +1,4 @@
 async function addPostFormHandler(event) {
-
-    alert('Post has been added!')
-
     event.preventDefault();
 
     //get form inputs

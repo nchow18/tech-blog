@@ -1,0 +1,43 @@
+<link rel="stylesheet" href="/stylesheets/edit-postHB.css"/>
+<link rel="stylesheet" href="/stylesheets/single-postHB.css">
+
+<div class="center-top-item">
+    {{>post-info posts}}
+</div>
+
+<div class="center-flex">
+    <article>
+        <form class="edit-post-form">
+            <div class="edit-post-title">
+                <h2>Edit Post - {{posts.title}}</h2>
+            </div>
+
+            <div class="edit-post-container">
+                <input class="edit-post-input" id="post-text" name="post-text" type="text" value="{{posts.post_text}}"/>
+            </div>
+            <div class="edit-button-container">
+                <button type="submit" class="post-button">Save Post</button>
+                <button type="button" class="delete-post-button post-button">Delete Post</button>
+            </div>
+
+        </form>
+    </article>
+
+    <form class="comment-form">
+        <div>
+            <h2>Add Post - {{posts.title}}</h2>
+        </div>
+        <div class="comment-post-container">
+            <textarea class="comment-post-input" name="comment-body"></textarea>
+        </div>
+        <div>
+            <button class="add-comment-button" type="submit">Add Comment</button>
+        </div>
+    </form>
+</div>
+
+{{>comments posts.comments}}    
+
+<script src="/javascript/edit-post.js"></script>
+<script src="/javascript/delete-post.js"></script>
+<script src="/javascript/comment.js"></script>

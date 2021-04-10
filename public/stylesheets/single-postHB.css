@@ -10,6 +10,7 @@ textarea {
     width: 20rem;
     height: 10rem;
     border-radius: 15px;
+    padding: .5rem;
 }
 
 .comment-buttons {
@@ -21,7 +22,7 @@ textarea {
     width: 20rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     border-radius: 15px;
     margin-top: .5rem;
 }
